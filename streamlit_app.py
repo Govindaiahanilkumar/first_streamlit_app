@@ -45,7 +45,7 @@ except URLError as e:
 streamlit.write('The user entered', fruit_choice)
 
 #import requests
-streamlit.text(fruityvice_response)
+#streamlit.text(fruityvice_response)
 
 streamlit.stop()
 
